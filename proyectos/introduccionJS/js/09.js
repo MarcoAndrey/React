@@ -17,4 +17,4 @@ console.log(tecnologias[2]); // 40
 // ------------------------------------------------------------------------------------------------------------------------
 // Los arreglos en JavaScript pueden contener cualquier tipo de dato
 
-const tecnologias = [20, 30, 40, true, "react,js"];
+// const tecnologias = [20, 30, 40, true, "react,js"];
